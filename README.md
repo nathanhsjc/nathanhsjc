@@ -1,4 +1,4 @@
-## <h1>Hi! I'm Nathan an aspiring tech professional
+## <h1>Hi! I'm Nathan an aspiring Tech Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 

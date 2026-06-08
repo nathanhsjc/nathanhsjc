@@ -20,4 +20,4 @@
 
 - [Threat Hunting Scenario TOR Browser](https://github.com/nathanhsjc/Threat-Hunting-Scenario-TOR)
 
-- [Threat Hunting Devices Accidentally Expoed to the Internet](https://github.com/nathanhsjc/Threat-Hunting-Devices-Accidentally-Exposed-to-the-Internet)
+- [Threat Hunting Devices Accidentally Exposed to the Internet](https://github.com/nathanhsjc/Threat-Hunting-Devices-Accidentally-Exposed-to-the-Internet)
